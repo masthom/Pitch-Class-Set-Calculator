@@ -1,2 +1,2 @@
 # Pitch-Class-Set-Calculator
-A very simple Calculator to get Forte Names and Interval Vectors of Pitch-class sets 
+A very simple calculator to get Forte names and interval vectors of pitch-class sets.
